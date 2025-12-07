@@ -1,2 +1,6 @@
 hello gitbash
+HEAD
 edit main branch
+edited in featurebranch
+edit in featurebranch conflict
+feature-branch
